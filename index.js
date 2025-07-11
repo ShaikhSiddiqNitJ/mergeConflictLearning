@@ -9,3 +9,7 @@ console.log("siddiq shaikh playing with git")
 // --no-rebase	Rebase mat karna, instead normal merge karna
 //command ye raha git pull --no-rebase origin master
 //kdkf
+//d3 changes
+// Developer 2 added this line
+//developer 4 changes kr raha hai pehla pull le liya master sa uska baad change 
+//so koi conflict nhi hai 
