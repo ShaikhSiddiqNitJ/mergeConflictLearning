@@ -8,3 +8,4 @@ console.log("siddiq shaikh playing with git")
 // master	Remote branch jahan se tum changes lana chahte ho
 // --no-rebase	Rebase mat karna, instead normal merge karna
 //command ye raha git pull --no-rebase origin master
+//kdkf
