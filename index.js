@@ -15,3 +15,8 @@ console.log("siddiq shaikh playing with git")
 //developer 4 changes kr raha hai pehla pull le liya master sa uska baad change 
 //so koi conflict nhi hai 
 //d1 changes
+
+// "Apna code side me rakh le temporarily (stash)"
+// git stash
+// git pull origin master
+// git stash pop
