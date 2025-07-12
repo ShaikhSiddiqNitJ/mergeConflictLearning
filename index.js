@@ -22,3 +22,6 @@ console.log("siddiq shaikh playing with git")
 // git stash pop
 //d5
 
+c1
+c2
+c3
